@@ -1,7 +1,7 @@
 {
-  "name": "Harmony",
-  "version": "0.0.2",
-  "description": "Pink/Black Theme for Enmity",
+  "name": "Jeratry",
+  "version": "1.0.0",
+  "description": "My own purple theme for Enmity.",
   "color": "#7f7fff",
   "authors": [
     {
@@ -47,23 +47,23 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000",
+      "#0e0e0e",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
+      "#0b0b0b",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000",
+      "#212121",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0a0a0a",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#000000",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
